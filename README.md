@@ -1,0 +1,2 @@
+# TelerikAspNetCoreApp
+TelerikAspNetCoreApp Spike
